@@ -1,5 +1,5 @@
 # dependencies
-*node_modules/
+/src/digiturno_front/node_modules/
 
 # testing
 /coverage
@@ -20,7 +20,7 @@ yarn-error.log*
 
 ### Semantic ###
 
-src/digiturno_front/src/semantic/dist
-src/digiturno_front/src/semantic/task
-src/digiturno_front/src/semantic/gulpfile.js
+/src/digiturno_front/src/semantic/dist/*
+/src/digiturno_front/src/semantic/tasks/*
+/src/digiturno_front/src/semantic/gulpfile.js
 
